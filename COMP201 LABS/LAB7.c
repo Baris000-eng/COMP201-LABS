@@ -1,7 +1,4 @@
-//Name-Surname: Baris Kaplan
-//ID Number: 69054
-//E-MAIL: bkaplan18@ku.edu.tr
-//COMP-201 LAB-7 
+
 
 int foo3(int num1,int num2){
 
